@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="app9845" tags="IisApp">
+  <parameter name="IIS Web Application Name" description="" value="coreapp1" tags="IisApp">
     <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Md\\source\\repos\\msinfy\\dotnetcoreapp1\\coreapp1\\coreapp1\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>
