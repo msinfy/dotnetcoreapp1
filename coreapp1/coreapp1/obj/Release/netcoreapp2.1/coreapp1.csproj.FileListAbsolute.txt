@@ -1,6 +1,5 @@
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp1\coreapp1\coreapp1\bin\Release\netcoreapp2.1\appsettings.Development.json
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp1\coreapp1\coreapp1\bin\Release\netcoreapp2.1\appsettings.json
-C:\Users\Md\source\repos\msinfy\dotnetcoreapp1\coreapp1\coreapp1\bin\Release\netcoreapp2.1\Properties\launchSettings.json
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp1\coreapp1\coreapp1\bin\Release\netcoreapp2.1\coreapp1.deps.json
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp1\coreapp1\coreapp1\bin\Release\netcoreapp2.1\coreapp1.runtimeconfig.json
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp1\coreapp1\coreapp1\bin\Release\netcoreapp2.1\coreapp1.runtimeconfig.dev.json
@@ -32,3 +31,5 @@ C:\Users\Md\source\repos\msinfy\dotnetcoreapp1\coreapp1\coreapp1\obj\Release\net
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp1\coreapp1\coreapp1\obj\Release\netcoreapp2.1\coreapp1.dll
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp1\coreapp1\coreapp1\obj\Release\netcoreapp2.1\coreapp1.pdb
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp1\coreapp1\coreapp1\obj\Release\netcoreapp2.1\coreapp1.csproj.CopyComplete
+C:\Users\Md\source\repos\msinfy\dotnetcoreapp1\coreapp1\coreapp1\obj\Release\netcoreapp2.1\coreapp1.csproj.CoreCompileInputs.cache
+C:\Users\Md\source\repos\msinfy\dotnetcoreapp1\coreapp1\coreapp1\obj\Release\netcoreapp2.1\coreapp1.genruntimeconfig.cache
